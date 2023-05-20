@@ -1,6 +1,7 @@
 # seq_read_n_grab
 
 Author: Murat Buyukyoruk
+
 Associated lab: Wiedenheft lab
 
         seq_read_n_grab help:
